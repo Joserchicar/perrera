@@ -1,0 +1,23 @@
+h1{
+
+    color:green;
+}
+#loader{
+
+    display:flex;
+}
+#loader p{
+
+    font-size: 2em;
+    text-align:center;
+    padding-left:1rem;
+}
+.nav-wrapper{
+
+    background-color:rgb(200, 70, 70);
+
+}
+.brand-logo{
+    color:black;
+
+}
